@@ -24,3 +24,9 @@ a. Querying the XML
 ## 5. XSLT
 a. XML Utility project [Java] XML to JSON Convert XML read,manipulate, change certain values XSLT work
 b. JSON Utility project [Java] JSON to XML convert JSON read,manipulate, change certain values
+
+
+Markup : <details>
+           <summary>Title 1</summary>
+           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+         </details>
