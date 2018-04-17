@@ -1,7 +1,7 @@
 # Ajjarani_Codes_XML_Technologies
 
 
-Implementation of XML Technologies, with Best Practices for Java Based Projects
+Practice Implementation Project from Ajith Ajjarani for XML Technologies, with Best Practices for Java Based Projects
 
 Following, Sample Codes are available
 
